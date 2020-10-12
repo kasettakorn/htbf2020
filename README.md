@@ -3,7 +3,7 @@
  <img width=200px height=200px src="./images/logo-icon.png" alt="HTBF logo"></a>
 </p>
 
-<h3 align="center">Hackertobefest Bangkok 2020</h3>
+<h3 align="center">Hacktobefest Bangkok 2020</h3>
 
 <div align="center">
 
