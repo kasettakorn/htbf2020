@@ -29,7 +29,9 @@ Hacktoberfest® is open to everyone in our global community. Whether you’re a 
 
 ## 🦠 Bug issue that need your help <a name="bug"></a>
 ❗️ Days still fix value equal 4 because I declare value myself. Change day variable dynamically. <br/>
-❗️ Timer was delay and inaccurate when refresh page.
+ <img src="./src/images/bug2" alt="bug1">  <br/>
+❗️ Timer was delay and inaccurate when refresh page. <br/>
+ <img src="./src/images/bug1" alt="bug2">
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 
