@@ -31,11 +31,16 @@
 
 ## 🧐 About <a name = "about"></a>
 
-Write about 1-2 paragraphs describing the purpose of your project.
+Hacktoberfest® is open to everyone in our global community. Whether you’re a developer, student learning to code, event host, or a company of any size, you can help drive the growth of open source and make positive contributions to an ever-growing community. All backgrounds and skill levels are encouraged to complete the challenge.
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [deployment](#deployment) for notes on how to deploy the project on a live system.
+1. Fork this Repository
+2. Clone your forked repository ( git clone https://github.com/<Your Github username>/htbf2020)
+Create a new branch for your modifications ( git checkout -b add-profile )
+Add your data in contents/
+Add your file ( git add . ) , commit ( git commit -m "add myprofile" ) and push ( git push -u origin add-profile )
+create pull request
 
 ### Prerequisites
 
