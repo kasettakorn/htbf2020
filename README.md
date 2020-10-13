@@ -45,7 +45,7 @@ Hacktoberfest® is open to everyone in our global community. Whether you’re a 
 After clone repository, you must install NPM package by following command
 
 ```
-npm install or yarn install
+npm install or yarn
 ```
 
 
