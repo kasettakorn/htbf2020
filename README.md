@@ -1,6 +1,6 @@
 <p align="center">
   <a href="" rel="noopener">
- <img width=200px height=200px src="./images/logo-icon.png" alt="HTBF logo"></a>
+ <img width=200px height=200px src="./src/images/logo-icon.png" alt="HTBF logo"></a>
 </p>
 
 <h3 align="center">Hacktoberfest Bangkok 2020</h3>
