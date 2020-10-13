@@ -36,7 +36,7 @@ Hacktoberfest® is open to everyone in our global community. Whether you’re a 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 
 1. Fork this Repository
-2. Clone your forked repository ( git clone https://github.com/<Your Github username>/htbf2020)
+2. Clone your forked repository ( git clone https://github.com/{Your-Github-username}/htbf2020)
 Create a new branch for your modifications ( git checkout -b add-profile )
 Add your data in contents/
 Add your file ( git add . ) , commit ( git commit -m "add myprofile" ) and push ( git push -u origin add-profile )
