@@ -11,12 +11,6 @@
 [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/kylelobo/The-Documentation-Compendium.svg)](https://github.com/kylelobo/The-Documentation-Compendium/pulls)
 </div>
 
----
-
-<p align="center"> Few lines describing your project.
-    <br> 
-</p>
-
 ## 📝 Table of Contents
 
 - [About](#about)
