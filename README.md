@@ -34,7 +34,7 @@ Hacktoberfest® is open to everyone in our global community. Whether you’re a 
 ## 🏁 Getting Started <a name = "getting_started"></a>
 
 1️⃣ Fork this Repository <br/>
-2️⃣ Clone your forked repository ( git clone https://github.com/{Your-Github-username}/htbf2020) <br/>
+2️⃣ Clone your forked repository (git clone https://github.com/{Your-Github-username}/htbf2020) <br/>
 3️⃣ Debug countdown timer ❗️ <br/>
 4️⃣ Create Pull requests
 
@@ -46,10 +46,6 @@ After clone repository, you must install NPM package by following command
 npm install or yarn install
 ```
 
-
-## ⬆️ How to create your pull requests <a name="pull-requests"></a>
-
-Add notes about how to use the system.
 
 ## 🚀 Deployment to GitHub Page [Optional] <a name = "deployment"></a>
 
