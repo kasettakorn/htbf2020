@@ -28,7 +28,7 @@
 Hacktoberfest® is open to everyone in our global community. Whether you’re a developer, student learning to code, event host, or a company of any size, you can help drive the growth of open source and make positive contributions to an ever-growing community. All backgrounds and skill levels are encouraged to complete the challenge.
 
 ## 🦠 Bug issue that need your help <a name="bug"></a>
-❗️ Days still fix value equal 4 <br/>
+❗️ Days still fix value equal 4 because I declare value myself. Change day variable dynamically. <br/>
 ❗️ Timer was delay and inaccurate when refresh page.
 
 ## 🏁 Getting Started <a name = "getting_started"></a>
