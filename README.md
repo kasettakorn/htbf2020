@@ -18,7 +18,6 @@
 - [Getting Started](#getting_started)
 - [How to create your pull requests](#pull-requests)
 - [Deployment to GitHub Page (Optional)](#deployment)
-- [Usage](#usage)
 - [Built Using](#built_using)
 - [Authors](#authors)
 - [Acknowledgments](#acknowledgement)
