@@ -14,12 +14,12 @@
 ## 📝 Table of Contents
 
 - [About](#about)
+- [Bug issue that need your help](#bug)
 - [Getting Started](#getting_started)
-- [Deployment](#deployment)
+- [How to create your pull requests](#pull-requests)
+- [Deployment to GitHub Page (Optional)](#deployment)
 - [Usage](#usage)
 - [Built Using](#built_using)
-- [TODO](../TODO.md)
-- [Contributing](../CONTRIBUTING.md)
 - [Authors](#authors)
 - [Acknowledgments](#acknowledgement)
 
@@ -27,81 +27,51 @@
 
 Hacktoberfest® is open to everyone in our global community. Whether you’re a developer, student learning to code, event host, or a company of any size, you can help drive the growth of open source and make positive contributions to an ever-growing community. All backgrounds and skill levels are encouraged to complete the challenge.
 
+## 🦠 Bug issue that need your help <a name="bug"></a>
+❗️ Days still fix value equal 4
+❗️ Timer was delay and inaccurate when refresh page.
+
 ## 🏁 Getting Started <a name = "getting_started"></a>
 
-1. Fork this Repository
-2. Clone your forked repository ( git clone https://github.com/{Your-Github-username}/htbf2020)
-Create a new branch for your modifications ( git checkout -b add-profile )
-Add your data in contents/
-Add your file ( git add . ) , commit ( git commit -m "add myprofile" ) and push ( git push -u origin add-profile )
-create pull request
+1️⃣ Fork this Repository <br/>
+2️⃣ Clone your forked repository ( git clone https://github.com/{Your-Github-username}/htbf2020) <br/>
+3️⃣ Debug countdown timer ❗️ <br/>
+4️⃣ Create Pull requests
 
 ### Prerequisites
 
-What things you need to install the software and how to install them.
+After clone repository, you must install NPM package by following command
 
 ```
-Give examples
+npm install or yarn install
 ```
 
-### Installing
 
-A step by step series of examples that tell you how to get a development env running.
-
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo.
-
-## 🔧 Running the tests <a name = "tests"></a>
-
-Explain how to run the automated tests for this system.
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-## 🎈 Usage <a name="usage"></a>
+## ⬆️ How to create your pull requests <a name="pull-requests"></a>
 
 Add notes about how to use the system.
 
-## 🚀 Deployment <a name = "deployment"></a>
+## 🚀 Deployment to GitHub Page [Optional] <a name = "deployment"></a>
 
-Add additional notes about how to deploy this on a live system.
+1️⃣ Install gh-pages if you weren't install package by following command. <br/>
+```
+npm install gh-pages --save-dev
+```
+2️⃣ Build project for deploy to GitHub Page by following command. ("deploy" keyword came from "script" attribute in package.json <br/>
+```
+npm run deploy
+```
+3️⃣ [Open GitHub page url](https://kasettakorn.github.io/htbf2020/) <br/>
 
 ## ⛏️ Built Using <a name = "built_using"></a>
 
-- [MongoDB](https://www.mongodb.com/) - Database
-- [Express](https://expressjs.com/) - Server Framework
-- [VueJs](https://vuejs.org/) - Web Framework
-- [NodeJs](https://nodejs.org/en/) - Server Environment
+- [ReactJS](https://reactjs.org/) - Web framework
+- [MomentJS](https://momentjs.com) - Parse, validate, manipulate and display dates and times in JavaScript
 
 ## ✍️ Authors <a name = "authors"></a>
 
-- [@kylelobo](https://github.com/kylelobo) - Idea & Initial work
+- [Ronnakorn Hompoa](https://github.com/kasettakorn) - Idea & Initial work
 
-See also the list of [contributors](https://github.com/kylelobo/The-Documentation-Compendium/contributors) who participated in this project.
 
 ## 🎉 Acknowledgements <a name = "acknowledgement"></a>
 
