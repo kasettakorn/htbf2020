@@ -14,7 +14,7 @@
 ## 📝 Table of Contents
 
 - [About](#about)
-- [Bug issue that need your help](#bug)
+- [❗️ Bug issue that need your help](#bug)
 - [Getting Started](#getting_started)
 - [How to create your pull requests](#pull-requests)
 - [Deployment to GitHub Page (Optional)](#deployment)
