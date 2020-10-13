@@ -57,7 +57,7 @@ Add notes about how to use the system.
 ```
 npm install gh-pages --save-dev
 ```
-2️⃣ Build project for deploy to GitHub Page by following command. ("deploy" keyword came from "script" attribute in package.json <br/>
+2️⃣ Build project for deploy to GitHub Page by following command. ("deploy" keyword came from "script" attribute in package.json) <br/>
 ```
 npm run deploy
 ```
